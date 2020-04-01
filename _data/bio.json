@@ -40,13 +40,19 @@
       ]
     },
     {
-      "name": "Blockchain",
+      "name": "Decentralized and Distributed Networking",
       "keywords": [
+        "blockchain",
+        "Distributed And Decentralized Protocols"
       ]
     },
     {
-      "name": "Offline Apps",
+      "name": "Desktop and Mobile Apps ",
       "keywords": [
+        "React Native",
+        "Electron Js",
+        "React Native",
+        "flutter"
       ]
     }
   ],
@@ -80,77 +86,71 @@
       "startDate": "2010-09-01",
       "endDate": "2016-09-01",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "AcceleratorApp - Canada ",
+      "position": "Backend Developer (Remote)",
+      "website": "https://acceleratorapp.co",
+      "startDate": "2019-08-01",
+      "endDate": "2020-03-07",
+      "summary": "Built Client Requested Features for a Collaboration Tools",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "I built a Zapier app with multiple endpoints that allowed clients to automate information retrieval from their profiles",
+        "I built a Google Authentication System that allowed users authenticate their login and registration process",
+        "I did extensive work on an event management system that allowed auto-matching of users based on time availability"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Radical Stack Limited",
+      "position": "Software Engineer (Remote)",
+      "website": "https://radicalstack.com/",
+      "startDate": "2019-03-01",
+      "endDate": "2019-06-15",
+      "summary": "Built Unique Product-Specific APIs powered by Distributed and Decentralized Technologies ",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "I built multiple blockchain-based Application Program ",
+        "Interfaces that made use of decentralized data in creating applications that  needs high level of security and data immutability"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Bitmama.io",
+      "position": "Software Engineer (Remote)",
+      "website": "https://Bitmama.io/",
+      "startDate": "2018-11-01",
+      "endDate": "2019-03-15",
+      "summary": "Built And Maintained features for a Cryto-Exchange Service",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "I had the responsibility of working on the Nodejs/MongoDb/Redis Powered Codebase, which involved working on a direct-to-cash semi-matching engine for CryptoCurrency Trading"
+      ]
+    },
+    {
+      "company": "Utopian.io",
+      "position": "Open Source Contributor (Remote)",
+      "website": "https://utopian.io/",
+      "startDate": "2017-01-07",
+      "endDate": "2018-12-15",
+      "summary": "Building Third-Party Open Source Blockchain Tools",
+      "highlights": [
+        "Made code contributions and wrote technical articles for open source projects", "Built Open Source tools for Graphene-Based Blockchain Projects"
+      ]
+    },
+    {
+      "company": "Freelancing Full Stack Web Developer",
+      "position": "Open Source Contributor (Remote)",
+      "website": "https://utopian.io/",
+      "startDate": "2012-01-07",
+      "endDate": "2018-11-15",
+      "summary": "Built tons of Static Websites, Built A Social Network, Provided Tech Consultancy to Companies and Organizations",
+      "highlights": [
+        "I worked on an In-Office Task Management System", "I built an app that helped to calculate the most profitable NASDAQ stock to buy (Short & Medium term) using their RSI indicator and  Stochastic Index", "I built a social network that had a profile, messaging and multifeatured news system"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  "volunteer": [],
+  "awards": [],
   "references": [
     {
       "name": "Available upon request",
