@@ -5,7 +5,7 @@
 title: Akintunde Jegede | Professional Portfolio
 url: "https://akintunde102.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "/template"
+baseurl: ""
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
