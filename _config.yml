@@ -1,10 +1,6 @@
 # Site settings
-
-# REQUIRED CHANGES
-# Edit next line, providing your own name.
 title: Akintunde Jegede | Professional Portfolio
 url: "https://akintunde102.github.io"
-# Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
 
 # OPTIONAL CHANGES
