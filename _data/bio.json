@@ -3,7 +3,7 @@
     "name": "Akintunde Jegede",
     "label": "Software Engineer",
     "picture": "https://akintunde102.github.io/images/akintunde.png",
-    "email": "molly@hawaii.edu",
+    "email": "jegedeakintunde@gmail.com",
     "phone": "808-333-4444",
     "website": "https://akintunde102.github.io",
     "summary": "I am an Experienced Software Engineer that mostly work with Typescript, Python and Dart. I love building things for myself and everyone else. What do you think?",
@@ -147,14 +147,6 @@
       "highlights": [
         "I worked on an In-Office Task Management System", "I built an app that helped to calculate the most profitable NASDAQ stock to buy (Short & Medium term) using their RSI indicator and  Stochastic Index", "I built a social network that had a profile, messaging and multifeatured news system"
       ]
-    }
-  ],
-  "volunteer": [],
-  "awards": [],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
