@@ -6,52 +6,46 @@
     "email": "molly@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://akintunde102.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am an Experienced Software Engineer that mostly work with Typescript, Python and Dart. I love building things for myself and everyone else. What do you think?",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "340383",
+      "city": "Akure",
+      "countryCode": "NGA",
+      "region": "Nigeria"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "akintunde102",
+        "url": "http://github.com/akintunde102"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "akintunde102",
+        "url": "http://linkedin.com/in/akintunde102"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "akintundejegede",
+        "url": "http://twitter.com/akintundejegede"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "SASS",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Collaboration Tools"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Blockchain",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Offline Apps",
       "keywords": [
       ]
     }
@@ -61,33 +55,30 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "Typescript",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Dart",
+        "Python",
+        "PHP"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "DOcker"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Federal University of Technology, Akure",
+      "area": "Civil Engineering",
+      "studyType": "B.Eng.",
+      "startDate": "2010-09-01",
+      "endDate": "2016-09-01",
       "gpa": "",
       "courses": [
       ]
